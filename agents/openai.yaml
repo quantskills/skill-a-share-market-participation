@@ -1,0 +1,3 @@
+interface:
+  display_name: "Skill A-Share Market Participation"
+  short_description: "Measure A-share breadth, turnover concentration, crowding, and structural fragility."

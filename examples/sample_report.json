@@ -1,0 +1,185 @@
+{
+  "coverage": {
+    "source_rows": 60,
+    "active_rows": 60,
+    "dropped_rows": 0,
+    "total_amount": 30916000000.0
+  },
+  "breadth": {
+    "advancers": 25,
+    "decliners": 35,
+    "flat": 0,
+    "positive_share": 0.4166666666666667,
+    "negative_share": 0.5833333333333334,
+    "amount_positive_share": 0.7978393065079571,
+    "median_return_pct": -0.45999999999999996,
+    "abs5_name_share": 0.13333333333333333
+  },
+  "liquidity_distribution": {
+    "top1_turnover_share": 0.09186181912278432,
+    "top5_turnover_share": 0.2639410014232113,
+    "top10_turnover_share": 0.49294863501099756,
+    "turnover_hhi": 0.0526047956255776,
+    "normalized_hhi_score": 3.6547249788722986,
+    "turnover_gini": 0.554287963082762,
+    "effective_names": 19.00967370195006,
+    "effective_names_ratio": 0.31682789503250103
+  },
+  "crowding": {
+    "hot_return_decile_amount_share": 0.4813041790658559,
+    "weak_return_decile_amount_share": 0.03347781084228231,
+    "high_turnover_name_share": 0.13333333333333333,
+    "high_turnover_amount_share": 0.6262129641609523,
+    "median_amplitude_pct": 2.9,
+    "smallcap_amount_share": 0.7262905938672533,
+    "leader_turnover_weighted_return_pct": 6.491601049868766,
+    "rest_median_return_pct": -0.57,
+    "leadership_spread_pct": 7.0616010498687665,
+    "hot_decile_close_location": 0.6884087076721748
+  },
+  "scores": {
+    "participation_score": 45.0,
+    "liquidity_distribution_score": 46.44,
+    "speculation_score": 54.15,
+    "fragility_score": 68.55
+  },
+  "state": "narrow-leadership",
+  "risk_flags": [
+    "turnover-concentration",
+    "capital-breadth-divergence",
+    "index-up-breadth-weak",
+    "leader-dependence"
+  ],
+  "constructive_signals": [],
+  "index_return_pct": 0.86,
+  "top_turnover_names": [
+    {
+      "code": "600007",
+      "name": "样本08",
+      "pct_change": 7.3,
+      "amount_share": 0.091862,
+      "turnover_rate": 19.6
+    },
+    {
+      "code": "600006",
+      "name": "样本07",
+      "pct_change": 6.6,
+      "amount_share": 0.08798,
+      "turnover_rate": 18.8
+    },
+    {
+      "code": "600005",
+      "name": "样本06",
+      "pct_change": 5.9,
+      "amount_share": 0.084099,
+      "turnover_rate": 18.0
+    },
+    {
+      "code": "600004",
+      "name": "样本05",
+      "pct_change": 5.2,
+      "amount_share": 0.080217,
+      "turnover_rate": 17.2
+    },
+    {
+      "code": "600003",
+      "name": "样本04",
+      "pct_change": 7.3,
+      "amount_share": 0.076336,
+      "turnover_rate": 16.4
+    },
+    {
+      "code": "600002",
+      "name": "样本03",
+      "pct_change": 6.6,
+      "amount_share": 0.072454,
+      "turnover_rate": 15.6
+    },
+    {
+      "code": "600001",
+      "name": "样本02",
+      "pct_change": 5.9,
+      "amount_share": 0.068573,
+      "turnover_rate": 14.8
+    },
+    {
+      "code": "600000",
+      "name": "样本01",
+      "pct_change": 5.2,
+      "amount_share": 0.064691,
+      "turnover_rate": 14.0
+    },
+    {
+      "code": "600013",
+      "name": "样本14",
+      "pct_change": 0.79,
+      "amount_share": 0.012356,
+      "turnover_rate": 3.6
+    },
+    {
+      "code": "600020",
+      "name": "样本21",
+      "pct_change": 0.25,
+      "amount_share": 0.012356,
+      "turnover_rate": 3.0
+    }
+  ],
+  "industries": [
+    {
+      "industry": "计算机",
+      "names": 10,
+      "amount_share": 0.2145167550782766,
+      "positive_share": 0.4,
+      "amount_weighted_return": 4.978872135102534
+    },
+    {
+      "industry": "电子",
+      "names": 10,
+      "amount_share": 0.2081123043084487,
+      "positive_share": 0.5,
+      "amount_weighted_return": 4.424765309294374
+    },
+    {
+      "industry": "有色金属",
+      "names": 10,
+      "amount_share": 0.15648854961832062,
+      "positive_share": 0.4,
+      "amount_weighted_return": 3.0095411326994626
+    },
+    {
+      "industry": "银行",
+      "names": 10,
+      "amount_share": 0.147561133393712,
+      "positive_share": 0.4,
+      "amount_weighted_return": 2.623266111354669
+    },
+    {
+      "industry": "机械设备",
+      "names": 10,
+      "amount_share": 0.1386337171691034,
+      "positive_share": 0.4,
+      "amount_weighted_return": 3.8370228651423237
+    },
+    {
+      "industry": "医药生物",
+      "names": 10,
+      "amount_share": 0.1346875404321387,
+      "positive_share": 0.4,
+      "amount_weighted_return": 3.462747358309318
+    }
+  ],
+  "history_context": {
+    "prior_sessions": 12,
+    "percentile_rank": {
+      "participation_score": 25.0,
+      "liquidity_distribution_score": 0.0,
+      "speculation_score": 66.66666666666667,
+      "fragility_score": 100.0,
+      "positive_share": 16.666666666666668,
+      "amount_positive_share": 100.0,
+      "top10_turnover_share": 100.0,
+      "turnover_gini": 0.0
+    }
+  },
+  "date": "2026-08-06"
+}

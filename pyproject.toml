@@ -1,0 +1,22 @@
+[project]
+name = "a-share-market-participation"
+version = "0.1.0"
+description = "Analyze A-share market participation, liquidity concentration, and crowding."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "pandas>=2.2",
+  "akshare>=1.18.0",
+  "panda-data>=0.0.9",
+]
+
+[project.scripts]
+a-share-participation = "scripts.analyze_market_participation:main"
+a-share-snapshot = "scripts.fetch_akshare_snapshot:main"
+
+[build-system]
+requires = ["hatchling>=1.24"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["scripts"]

@@ -1,0 +1,13 @@
+date,participation_score,liquidity_distribution_score,speculation_score,fragility_score,positive_share,amount_positive_share,top10_turnover_share,turnover_gini,state
+2026-07-21,40.3,59.2,47.5,39.0,0.425,0.48,0.335,0.585,balanced-rotation
+2026-07-22,42.6,63.4,53.0,43.0,0.47,0.54,0.36,0.61,balanced-rotation
+2026-07-23,44.9,67.6,58.5,47.0,0.515,0.6,0.385,0.635,balanced-rotation
+2026-07-24,47.2,55.0,64.0,51.0,0.56,0.42,0.31,0.56,balanced-rotation
+2026-07-25,49.5,59.2,42.0,55.0,0.38,0.48,0.335,0.585,balanced-rotation
+2026-07-26,51.8,63.4,47.5,35.0,0.425,0.54,0.36,0.61,balanced-rotation
+2026-07-27,54.1,67.6,53.0,39.0,0.47,0.6,0.385,0.635,balanced-rotation
+2026-07-28,56.4,55.0,58.5,43.0,0.515,0.42,0.31,0.56,balanced-rotation
+2026-07-29,58.7,59.2,64.0,47.0,0.56,0.48,0.335,0.585,balanced-rotation
+2026-07-30,61.0,63.4,42.0,51.0,0.38,0.54,0.36,0.61,balanced-rotation
+2026-07-31,63.3,67.6,47.5,55.0,0.425,0.6,0.385,0.635,balanced-rotation
+2026-07-32,65.6,55.0,53.0,35.0,0.47,0.42,0.31,0.56,balanced-rotation
