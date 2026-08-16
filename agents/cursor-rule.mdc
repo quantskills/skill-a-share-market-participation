@@ -1,0 +1,15 @@
+---
+description: Analyze A-share market participation with the bundled deterministic workflow
+alwaysApply: false
+---
+
+# A-share Market Participation
+
+Load and follow `../SKILL.md` before handling A-share breadth, turnover concentration, crowding, leader dependence, or structural-fragility requests.
+
+- Run commands from this Skill's root and use its bundled scripts and references.
+- For live data, use PandaData first and AKShare only as the fallback.
+- User-provided local snapshots are valid inputs.
+- Never search, browse, or scrape webpages for replacement market data.
+- If approved sources are unavailable, fail closed and report the exact error.
+- Keep conclusions descriptive and non-predictive; do not provide investment advice or promise returns.

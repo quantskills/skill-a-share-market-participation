@@ -1,7 +1,13 @@
 ---
 name: skill-a-share-market-participation
 description: Analyze A-share cross-sectional market participation, turnover concentration, liquidity distribution, speculative crowding, leader dependence, and structural fragility from daily or intraday stock snapshots. Use when the user asks in Chinese or English to analyze A-share market breadth, participation, turnover concentration, crowding, whether an index rally is broad or narrow, or to generate a reproducible market-structure report. Use only bundled scripts with PandaData as the primary live source, AKShare as fallback, or user-provided local data; never search, browse, or scrape webpages for replacement market data, and fail closed when approved sources are unavailable. Do not use for order routing, fill simulation, slippage/TCA, live trade execution, or stock-level margin/northbound/block-trade capital-flow attribution.
-license: MIT
+license: GPL-3.0-only
+metadata:
+  organization: QuantSkills
+  organization_url: https://github.com/quantskills
+  repository: skill-a-share-market-participation
+  repository_url: https://github.com/quantskills/skill-a-share-market-participation
+  project_type: skill
 ---
 
 # A-share Market Participation
@@ -11,6 +17,12 @@ license: MIT
 Convert an A-share market snapshot into a reproducible description of **who is participating, where turnover is concentrated, whether leaders are carrying the tape, and how fragile the apparent market move is**.
 
 Keep the scope separate from execution microstructure. Do not design order schedules, model fills, estimate slippage, route orders, or perform TCA. This skill analyzes the market-wide cross-sectional structure of trading activity, not the mechanics of executing a parent order or stock-level margin/northbound/block-trade capital flows.
+
+## Project status and maintenance
+
+Treat this repository as a QuantSkills Community Project, not as an official, certified, verified, endorsed, or production-ready QuantSkills project.
+
+The project is maintained by contributors and reviewers through the upstream repository at `https://github.com/quantskills/skill-a-share-market-participation`. Preserve authorship and contribution history when modifying or redistributing it.
 
 ## Natural-language interaction
 

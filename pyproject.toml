@@ -3,6 +3,7 @@ name = "a-share-market-participation"
 version = "0.1.0"
 description = "Analyze A-share market participation, liquidity concentration, and crowding."
 readme = "README.md"
+license = "GPL-3.0-only"
 requires-python = ">=3.10"
 dependencies = [
   "pandas>=2.2",
