@@ -126,3 +126,7 @@ Always surface these sections, even when some optional fields are unavailable:
 - Read [references/input-contract.md](references/input-contract.md) for accepted columns, aliases, units, and optional industry enrichment.
 - Read [references/methodology.md](references/methodology.md) for metric definitions, score construction, state labels, flags, and limitations.
 - Read [references/output-contract.md](references/output-contract.md) when formatting a user-facing report or integrating the JSON output downstream.
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.

@@ -544,3 +544,6 @@ skill-a-share-market-participation/
 - **许可证**：GPL-3.0-only
 
 **仅供研究与教育，不构成投资建议，不承诺收益，也不代表任何表面市场结构一定会延续或反转。**
+
+
+Pandadata 兼容维护：[abgyjaguo](https://github.com/abgyjaguo)，保留原项目作者署名。

@@ -178,3 +178,6 @@ This is a QuantSkills Community Project for quantitative research, market monito
 The project is maintained by contributors and reviewers through the upstream repository at `https://github.com/quantskills/skill-a-share-market-participation`.
 
 License: `GPL-3.0-only`.
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.
